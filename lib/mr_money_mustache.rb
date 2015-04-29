@@ -1,4 +1,4 @@
-require 'mechanize'
+require "mr_money_mustache/version"
 
 module MrMoneyMustache
   class Api

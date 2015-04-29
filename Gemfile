@@ -1,8 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'mechanize'
-
-group :test, :development do
-  gem 'rspec'
-end
-
+# Specify your gem's dependencies in mr_money_mustache.gemspec
+gemspec

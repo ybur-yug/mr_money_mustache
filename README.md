@@ -1,1 +1,1 @@
-# Mr. Money Mustache Unofficial API
+# Unofficial Mr Money Mustache API
