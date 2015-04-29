@@ -10,4 +10,5 @@ elsif ARGV[0].downcase == 'random'
   $api.random
 else
   puts "Usage: mr_money_mustache [post_type] \n Options are latest and random"
+end
 
